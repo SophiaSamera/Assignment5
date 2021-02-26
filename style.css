@@ -1,0 +1,34 @@
+#guessing {
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+}
+
+#game {
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+}
+
+#circle {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+#diameter {
+  display: inline-block;
+  width: 60px;
+  text-align: right;
+}
+
+#insert {
+  width: 10%;
+}
+
+#button {
+  background-color: rgb(146, 160, 179);
+}
+
+body {
+  background-color: lightsteelblue;
+}
